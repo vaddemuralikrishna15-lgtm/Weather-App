@@ -1,24 +1,23 @@
-# To-Do App
+# Weather App
 
-A simple and fast To-Do application where users can add, delete, and manage daily tasks.  
-All tasks are saved in localStorage, so they stay even after refresh.
+A simple weather application that shows real-time weather details for any city using an API.
 
-## ✨ Features
-- Add new tasks  
-- Delete tasks  
-- Tasks saved in browser localStorage  
+## 🌦 Features
+- Search weather by city name  
+- Displays temperature, humidity, wind speed  
 - Clean UI  
-- Fast and responsive  
+- Fast loading  
 
 ## 🧰 Technologies Used
 - HTML  
 - CSS  
 - JavaScript  
+- Weather API (OpenWeatherMap or similar)  
 
 ## 🌐 Live Demo
-https://vaddemuralikrishna15-lgtm.github.io/todo-app
+https://vaddemuralikrishna15-lgtm.github.io/Weather-App
 
-## 📦 Future Improvements
-- Task editing  
-- Dark mode  
-- Categories for tasks
+## 🔧 Future Improvements
+- 5-day forecast  
+- Auto-location weather  
+- Unit conversion (°C / °F)
